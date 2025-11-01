@@ -17,7 +17,7 @@ somewhere more exposed.
 
 [![PyPI version](https://img.shields.io/pypi/v/jindr)](https://pypi.org/project/jindr/)
 [![Python versions](https://img.shields.io/pypi/pyversions/jindr)](https://pypi.org/project/jindr/)
-[![GitHub License](https://img.shields.io/github/license/jin-gizmo/jindr?x)](https://github.com/jin-gizmo/jindr/blob/master/LICENCE.txt)
+[![GitHub License](https://img.shields.io/github/license/jin-gizmo/jindr?)](https://github.com/jin-gizmo/jindr/blob/master/LICENCE.txt)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ## Genesis

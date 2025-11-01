@@ -32,7 +32,7 @@ to build complex technology solutions in-house.
 a docker container with persistent storage in the local filesystem. All of the
 normal docker commands (pull, push etc.) work as expected.
 
-*JinDr** provides a CLI with subcommands to:
+**JinDr** provides a CLI with subcommands to:
 
 * start and stop the registry
 * view and delete registry contents
